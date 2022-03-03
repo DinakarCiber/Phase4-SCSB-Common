@@ -41,4 +41,5 @@ public class SolrIndexRequest {
     private String maProcessType;
     private boolean includeMaQualifier;
     private boolean indexBibsForOngoingMa;
+    private String cgd;
 }
