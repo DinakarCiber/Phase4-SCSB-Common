@@ -2,7 +2,7 @@ package org.recap.model.jpa;
 
 import lombok.Data;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 import java.util.Objects;
 
 @Entity

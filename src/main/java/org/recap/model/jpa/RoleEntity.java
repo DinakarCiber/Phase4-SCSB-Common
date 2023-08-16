@@ -4,15 +4,15 @@ import lombok.Data;
 import lombok.EqualsAndHashCode;
 
 
-import javax.persistence.AttributeOverride;
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.Table;
-import javax.persistence.TemporalType;
-import javax.persistence.JoinTable;
-import javax.persistence.Temporal;
-import javax.persistence.ElementCollection;
-import javax.persistence.JoinColumn;
+import jakarta.persistence.AttributeOverride;
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+import jakarta.persistence.TemporalType;
+import jakarta.persistence.JoinTable;
+import jakarta.persistence.Temporal;
+import jakarta.persistence.ElementCollection;
+import jakarta.persistence.JoinColumn;
 import java.util.Date;
 import java.util.Set;
 
