@@ -253,7 +253,7 @@ public class ScsbCommonConstants {
     public static final String INVALID_REQUEST = "InvalidRequest";
     public static final String REQUEST_IDS = "RequestIds";
     public static final String DIRECT_ROUTE_FOR_EXCEPTION = "direct:Exception";
-    public static final String ROOT = "_root_";
+    public static final String ROOT = "_version_";
     public static final String PURGE_EDD_REQUEST = "noOfUpdatedRecordsForEddRequest";
     public static final String OWN_INST_BIBID_LIST = "owningInstBibIdList";
     public static final String SUBMIT_COLLECTION_JOB_INITIATE_QUEUE = "scsbactivemq:queue:submitCollectionInitiateQ";
